@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="12.1.1" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\InsuranceContribution.Domain\InsuranceContribution.Domain.csproj" />
+		<ProjectReference Include="..\InsuranceContribution.Infrastructure\InsuranceContribution.Infrastructure.csproj" />
+	</ItemGroup>
+
+</Project>

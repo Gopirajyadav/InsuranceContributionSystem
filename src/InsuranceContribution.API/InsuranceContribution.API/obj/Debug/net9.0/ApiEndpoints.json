@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "InsuranceContribution.API.Controllers.ContributionsController",
+    "Method": "Create",
+    "RelativePath": "api/Contributions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "InsuranceContribution.Application.DTOs.ContributionRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InsuranceContribution.API.Controllers.PoliciesController",
+    "Method": "GetContributions",
+    "RelativePath": "api/policies/{policyNumber}/contributions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "policyNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

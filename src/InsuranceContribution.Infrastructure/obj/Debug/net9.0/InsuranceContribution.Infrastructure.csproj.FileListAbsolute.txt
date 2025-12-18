@@ -1,0 +1,15 @@
+D:\Gopi(2025)\InsuranceContributionSystem\src\InsuranceContribution.Infrastructure\bin\Debug\net9.0\InsuranceContribution.Infrastructure.deps.json
+D:\Gopi(2025)\InsuranceContributionSystem\src\InsuranceContribution.Infrastructure\bin\Debug\net9.0\InsuranceContribution.Infrastructure.dll
+D:\Gopi(2025)\InsuranceContributionSystem\src\InsuranceContribution.Infrastructure\bin\Debug\net9.0\InsuranceContribution.Infrastructure.pdb
+D:\Gopi(2025)\InsuranceContributionSystem\src\InsuranceContribution.Infrastructure\bin\Debug\net9.0\InsuranceContribution.Domain.dll
+D:\Gopi(2025)\InsuranceContributionSystem\src\InsuranceContribution.Infrastructure\bin\Debug\net9.0\InsuranceContribution.Domain.pdb
+D:\Gopi(2025)\InsuranceContributionSystem\src\InsuranceContribution.Infrastructure\obj\Debug\net9.0\InsuranceContribution.Infrastructure.csproj.AssemblyReference.cache
+D:\Gopi(2025)\InsuranceContributionSystem\src\InsuranceContribution.Infrastructure\obj\Debug\net9.0\InsuranceContribution.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gopi(2025)\InsuranceContributionSystem\src\InsuranceContribution.Infrastructure\obj\Debug\net9.0\InsuranceContribution.Infrastructure.AssemblyInfoInputs.cache
+D:\Gopi(2025)\InsuranceContributionSystem\src\InsuranceContribution.Infrastructure\obj\Debug\net9.0\InsuranceContribution.Infrastructure.AssemblyInfo.cs
+D:\Gopi(2025)\InsuranceContributionSystem\src\InsuranceContribution.Infrastructure\obj\Debug\net9.0\InsuranceContribution.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Gopi(2025)\InsuranceContributionSystem\src\InsuranceContribution.Infrastructure\obj\Debug\net9.0\Insuranc.782E5243.Up2Date
+D:\Gopi(2025)\InsuranceContributionSystem\src\InsuranceContribution.Infrastructure\obj\Debug\net9.0\InsuranceContribution.Infrastructure.dll
+D:\Gopi(2025)\InsuranceContributionSystem\src\InsuranceContribution.Infrastructure\obj\Debug\net9.0\refint\InsuranceContribution.Infrastructure.dll
+D:\Gopi(2025)\InsuranceContributionSystem\src\InsuranceContribution.Infrastructure\obj\Debug\net9.0\InsuranceContribution.Infrastructure.pdb
+D:\Gopi(2025)\InsuranceContributionSystem\src\InsuranceContribution.Infrastructure\obj\Debug\net9.0\ref\InsuranceContribution.Infrastructure.dll

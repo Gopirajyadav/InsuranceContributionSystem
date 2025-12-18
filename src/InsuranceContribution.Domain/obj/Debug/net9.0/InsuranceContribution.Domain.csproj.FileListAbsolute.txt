@@ -1,0 +1,12 @@
+D:\Gopi(2025)\InsuranceContributionSystem\src\InsuranceContribution.Domain\bin\Debug\net9.0\InsuranceContribution.Domain.deps.json
+D:\Gopi(2025)\InsuranceContributionSystem\src\InsuranceContribution.Domain\bin\Debug\net9.0\InsuranceContribution.Domain.dll
+D:\Gopi(2025)\InsuranceContributionSystem\src\InsuranceContribution.Domain\bin\Debug\net9.0\InsuranceContribution.Domain.pdb
+D:\Gopi(2025)\InsuranceContributionSystem\src\InsuranceContribution.Domain\obj\Debug\net9.0\InsuranceContribution.Domain.csproj.AssemblyReference.cache
+D:\Gopi(2025)\InsuranceContributionSystem\src\InsuranceContribution.Domain\obj\Debug\net9.0\InsuranceContribution.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gopi(2025)\InsuranceContributionSystem\src\InsuranceContribution.Domain\obj\Debug\net9.0\InsuranceContribution.Domain.AssemblyInfoInputs.cache
+D:\Gopi(2025)\InsuranceContributionSystem\src\InsuranceContribution.Domain\obj\Debug\net9.0\InsuranceContribution.Domain.AssemblyInfo.cs
+D:\Gopi(2025)\InsuranceContributionSystem\src\InsuranceContribution.Domain\obj\Debug\net9.0\InsuranceContribution.Domain.csproj.CoreCompileInputs.cache
+D:\Gopi(2025)\InsuranceContributionSystem\src\InsuranceContribution.Domain\obj\Debug\net9.0\InsuranceContribution.Domain.dll
+D:\Gopi(2025)\InsuranceContributionSystem\src\InsuranceContribution.Domain\obj\Debug\net9.0\refint\InsuranceContribution.Domain.dll
+D:\Gopi(2025)\InsuranceContributionSystem\src\InsuranceContribution.Domain\obj\Debug\net9.0\InsuranceContribution.Domain.pdb
+D:\Gopi(2025)\InsuranceContributionSystem\src\InsuranceContribution.Domain\obj\Debug\net9.0\ref\InsuranceContribution.Domain.dll

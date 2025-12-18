@@ -1,0 +1,229 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.Application\\InsuranceContribution.Application.csproj": {}
+  },
+  "projects": {
+    "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.Application\\InsuranceContribution.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.Application\\InsuranceContribution.Application.csproj",
+        "projectName": "InsuranceContribution.Application",
+        "projectPath": "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.Application\\InsuranceContribution.Application.csproj",
+        "packagesPath": "C:\\Users\\gopir\\.nuget\\packages\\",
+        "outputPath": "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gopir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.Domain\\InsuranceContribution.Domain.csproj": {
+                "projectPath": "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.Domain\\InsuranceContribution.Domain.csproj"
+              },
+              "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.Infrastructure\\InsuranceContribution.Infrastructure.csproj": {
+                "projectPath": "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.Infrastructure\\InsuranceContribution.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.Domain\\InsuranceContribution.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.Domain\\InsuranceContribution.Domain.csproj",
+        "projectName": "InsuranceContribution.Domain",
+        "projectPath": "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.Domain\\InsuranceContribution.Domain.csproj",
+        "packagesPath": "C:\\Users\\gopir\\.nuget\\packages\\",
+        "outputPath": "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gopir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.Infrastructure\\InsuranceContribution.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.Infrastructure\\InsuranceContribution.Infrastructure.csproj",
+        "projectName": "InsuranceContribution.Infrastructure",
+        "projectPath": "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.Infrastructure\\InsuranceContribution.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\gopir\\.nuget\\packages\\",
+        "outputPath": "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gopir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.Domain\\InsuranceContribution.Domain.csproj": {
+                "projectPath": "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.Domain\\InsuranceContribution.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

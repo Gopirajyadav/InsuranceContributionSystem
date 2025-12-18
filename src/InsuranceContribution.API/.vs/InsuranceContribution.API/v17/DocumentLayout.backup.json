@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0C28D4-5CB7-4D35-B63F-30DBE4365D9A}|InsuranceContribution.API\\InsuranceContribution.API.csproj|d:\\gopi(2025)\\insurancecontributionsystem\\src\\insurancecontribution.api\\insurancecontribution.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0C28D4-5CB7-4D35-B63F-30DBE4365D9A}|InsuranceContribution.API\\InsuranceContribution.API.csproj|solutionrelative:insurancecontribution.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16C6D66-368A-4FC6-8042-94C8066EB242}|..\\InsuranceContribution.Infrastructure\\InsuranceContribution.Infrastructure.csproj|d:\\gopi(2025)\\insurancecontributionsystem\\src\\insurancecontribution.infrastructure\\data\\insurancedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0C28D4-5CB7-4D35-B63F-30DBE4365D9A}|InsuranceContribution.API\\InsuranceContribution.API.csproj|d:\\gopi(2025)\\insurancecontributionsystem\\src\\insurancecontribution.api\\insurancecontribution.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D0C28D4-5CB7-4D35-B63F-30DBE4365D9A}|InsuranceContribution.API\\InsuranceContribution.API.csproj|solutionrelative:insurancecontribution.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8C2320-8E44-4BB7-A3F5-8FCA9777420E}|..\\InsuranceContribution.Application\\InsuranceContribution.Application.csproj|d:\\gopi(2025)\\insurancecontributionsystem\\src\\insurancecontribution.application\\services\\contributionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.API\\InsuranceContribution.API\\Program.cs",
+              "RelativeDocumentMoniker": "InsuranceContribution.API\\Program.cs",
+              "ToolTip": "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.API\\InsuranceContribution.API\\Program.cs",
+              "RelativeToolTip": "InsuranceContribution.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T13:28:22.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsuranceDbContext.cs",
+              "DocumentMoniker": "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.Infrastructure\\Data\\InsuranceDbContext.cs",
+              "RelativeDocumentMoniker": "..\\InsuranceContribution.Infrastructure\\Data\\InsuranceDbContext.cs",
+              "ToolTip": "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.Infrastructure\\Data\\InsuranceDbContext.cs",
+              "RelativeToolTip": "..\\InsuranceContribution.Infrastructure\\Data\\InsuranceDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T13:17:31.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContributionService.cs",
+              "DocumentMoniker": "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.Application\\Services\\ContributionService.cs",
+              "RelativeDocumentMoniker": "..\\InsuranceContribution.Application\\Services\\ContributionService.cs",
+              "ToolTip": "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.Application\\Services\\ContributionService.cs",
+              "RelativeToolTip": "..\\InsuranceContribution.Application\\Services\\ContributionService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T13:16:46.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.API\\InsuranceContribution.API\\appsettings.json",
+              "RelativeDocumentMoniker": "InsuranceContribution.API\\appsettings.json",
+              "ToolTip": "D:\\Gopi(2025)\\InsuranceContributionSystem\\src\\InsuranceContribution.API\\InsuranceContribution.API\\appsettings.json",
+              "RelativeToolTip": "InsuranceContribution.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-18T13:07:01.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
